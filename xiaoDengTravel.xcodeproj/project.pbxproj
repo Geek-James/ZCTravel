@@ -1536,7 +1536,7 @@
 				TargetAttributes = {
 					1ABBCC6E1DF302700075493B = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = LMHB6CQAWX;
+						DevelopmentTeam = 7A2NY8HTJK;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -1923,7 +1923,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				DEVELOPMENT_TEAM = LMHB6CQAWX;
+				DEVELOPMENT_TEAM = 7A2NY8HTJK;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = xiaoDengTravel/Others/Define/PrefixHeader.pch;
 				INFOPLIST_FILE = "$(SRCROOT)/xiaoDengTravel/Others/Info.plist";
@@ -1940,7 +1940,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				DEVELOPMENT_TEAM = LMHB6CQAWX;
+				DEVELOPMENT_TEAM = 7A2NY8HTJK;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = xiaoDengTravel/Others/Define/PrefixHeader.pch;
 				INFOPLIST_FILE = "$(SRCROOT)/xiaoDengTravel/Others/Info.plist";

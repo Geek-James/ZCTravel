@@ -10,4 +10,7 @@
 
 @interface ZCSeeTipsViewController : UIViewController
 
+@property (nonatomic, strong)NSMutableArray *array;
+
+
 @end
